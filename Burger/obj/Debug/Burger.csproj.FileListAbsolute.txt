@@ -1,0 +1,10 @@
+C:\Users\Linux\source\repos\Burger\Burger\bin\Debug\Burger.exe.config
+C:\Users\Linux\source\repos\Burger\Burger\bin\Debug\Burger.exe
+C:\Users\Linux\source\repos\Burger\Burger\bin\Debug\Burger.pdb
+C:\Users\Linux\source\repos\Burger\Burger\obj\Debug\Burger.Form1.resources
+C:\Users\Linux\source\repos\Burger\Burger\obj\Debug\Burger.Properties.Resources.resources
+C:\Users\Linux\source\repos\Burger\Burger\obj\Debug\Burger.csproj.GenerateResource.cache
+C:\Users\Linux\source\repos\Burger\Burger\obj\Debug\Burger.csproj.CoreCompileInputs.cache
+C:\Users\Linux\source\repos\Burger\Burger\obj\Debug\Burger.exe
+C:\Users\Linux\source\repos\Burger\Burger\obj\Debug\Burger.pdb
+C:\Users\Linux\source\repos\Burger\Burger\obj\Debug\Burger.csprojAssemblyReference.cache
